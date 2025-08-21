@@ -1,5 +1,5 @@
-#Name : Kathir Anand S
-#Reg No : 212223100018
+# Name : Kathir Anand S
+# Reg No : 212223100018
 # EX no-1-CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
